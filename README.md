@@ -17,6 +17,7 @@ Join today and [get your Friendica profile!](https://dir.friendica.social/server
 ### Friendica Screenshots
 
 | ![Frio theme in mobile browser](/images/screenshots/friendica-frio-mobile-profle-1.png?raw=true "Frio theme in mobile browser") ![Frio theme in mobile browser](/images/screenshots/friendica-frio-mobile-profle-2.png?raw=true "Frio theme in mobile browser")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerrode%2Ffriendica.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerrode%2Ffriendica?ref=badge_shield)
 |:--:|
 |*Frio theme, mobile browser. Timeline and composer view.*|
 |![Frio theme in desktop browser](/images/screenshots/friendica-frio-green-profle-1.png?raw=true "Frio theme in desktop browser")
@@ -39,3 +40,7 @@ Join today and [get your Friendica profile!](https://dir.friendica.social/server
 |*Vier theme, desktop browser. Public timeline view.*|
 |![Vier theme in desktop browser](/images/screenshots/friendica-vier-community.png?raw=true "Vier theme in desktop browser")
 |*Vier theme, desktop browser. Community post displayed.*|
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerrode%2Ffriendica.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerrode%2Ffriendica?ref=badge_large)
